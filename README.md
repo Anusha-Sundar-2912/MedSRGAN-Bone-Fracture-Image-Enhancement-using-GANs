@@ -19,7 +19,9 @@ This project proposes **MedSRGAN**, a GAN-based architecture that enhances radio
 
 ### 🔷 Framework Overview
 
- <img width="889" height="692" alt="architecture_medsrgan" src="https://github.com/user-attachments/assets/92ae2c5b-60a9-44d7-b463-76e9682ef20e" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/92ae2c5b-60a9-44d7-b463-76e9682ef20e" width="500"/>
+</p>
 
 ### 🔹 Key Components
 
@@ -41,7 +43,9 @@ This project proposes **MedSRGAN**, a GAN-based architecture that enhances radio
 
 ## 📊 Training Performance
 
-<img width="1032" height="734" alt="training graph" src="https://github.com/user-attachments/assets/28341abf-a839-4246-a044-74d3f221cfb5" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/28341abf-a839-4246-a044-74d3f221cfb5" width="550"/>
+</p>
 
 ✔ Stable GAN training  
 ✔ Increasing PSNR and SSIM over epochs  
@@ -142,17 +146,17 @@ python enhance_gui.py
 ---
 
 ## 📌 Key Features
-✔ GAN-based medical image enhancement
-✔ Preserves fine anatomical structures
-✔ Improves diagnostic clarity
-✔ High PSNR & SSIM performance
-✔ Works on noisy and low-resolution X-rays
+- GAN-based medical image enhancement
+- Preserves fine anatomical structures
+- Improves diagnostic clarity
+- High PSNR & SSIM performance
+- Works on noisy and low-resolution X-rays
 
 ---
 ## 📌 Key Features
-✔ Real-time deployment
-✔ Mobile/edge optimization
-✔ 3D medical image enhancement
-✔ Clinical integration
+- Real-time deployment
+- Mobile/edge optimization
+- 3D medical image enhancement
+- Clinical integration
 
 ---
