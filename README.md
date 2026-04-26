@@ -53,7 +53,7 @@ This project proposes **MedSRGAN**, a GAN-based architecture that enhances radio
 
 ### 🔍 Before vs After Enhancement
 <img width="1026" height="517" alt="Screenshot 2026-04-27 003737" src="https://github.com/user-attachments/assets/cce82953-d8ce-43fc-a107-6e82ff044291" />
-<img width="1027" height="494" alt="Screenshot 2026-04-27 003827" src="https://github.com/user-attachments/assets/2c149a2e-b1d8-49db-b684-98e5b8f78670" />
+<img width="700" height="500" alt="Screenshot 2026-04-27 003827" src="https://github.com/user-attachments/assets/2c149a2e-b1d8-49db-b684-98e5b8f78670" />
 <img width="899" height="433" alt="Screenshot 2026-04-27 003805" src="https://github.com/user-attachments/assets/ebf84719-f13f-4376-a97e-1365efe7cdde" />
 
 ✔ Enhanced fracture visibility  
