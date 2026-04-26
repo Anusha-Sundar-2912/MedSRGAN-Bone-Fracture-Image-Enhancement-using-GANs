@@ -52,13 +52,18 @@ This project proposes **MedSRGAN**, a GAN-based architecture that enhances radio
 ## 🖼️ Results
 
 ### 🔍 Before vs After Enhancement
-<img width="1026" height="517" alt="Screenshot 2026-04-27 003737" src="https://github.com/user-attachments/assets/cce82953-d8ce-43fc-a107-6e82ff044291" />
-<img width="700" height="500" alt="Screenshot 2026-04-27 003827" src="https://github.com/user-attachments/assets/2c149a2e-b1d8-49db-b684-98e5b8f78670" />
-<img width="899" height="433" alt="Screenshot 2026-04-27 003805" src="https://github.com/user-attachments/assets/ebf84719-f13f-4376-a97e-1365efe7cdde" />
 
-✔ Enhanced fracture visibility  
-✔ Sharper bone edges  
-✔ Reduced noise  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cce82953-d8ce-43fc-a107-6e82ff044291" width="600"/>
+  <img src="https://github.com/user-attachments/assets/2c149a2e-b1d8-49db-b684-98e5b8f78670" width="600"/>
+  <img src="https://github.com/user-attachments/assets/ebf84719-f13f-4376-a97e-1365efe7cdde" width="600"/>
+</p>
+
+---
+
+✔️ Enhanced fracture visibility  
+✔️ Sharper bone edges  
+✔️ Reduced noise  
 
 ---
 
@@ -136,16 +141,18 @@ python enhance_gui.py
 ```
 ---
 
-📌 Key Features
+## 📌 Key Features
 ✔ GAN-based medical image enhancement
 ✔ Preserves fine anatomical structures
 ✔ Improves diagnostic clarity
 ✔ High PSNR & SSIM performance
 ✔ Works on noisy and low-resolution X-rays
+
 ---
-🔮 Future Work
-Real-time deployment
-Mobile/edge optimization
-3D medical image enhancement
-Clinical integration
+## 📌 Key Features
+✔ Real-time deployment
+✔ Mobile/edge optimization
+✔ 3D medical image enhancement
+✔ Clinical integration
+
 ---
