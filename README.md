@@ -97,7 +97,7 @@ To improve generalization, the dataset is augmented using:
 ---
 
 ## 📁 Project Structure
-
+```bash
 MedSRGAN/
 │
 ├── generator.py
@@ -117,7 +117,7 @@ MedSRGAN/
 ├── training_metrics.png
 ├── results.png
 ├── augmentation.png
-
+```
 ---
 
 ## ▶️ How to Run
